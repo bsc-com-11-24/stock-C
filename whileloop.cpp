@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int data;
-
+ //katu ndi zoba 
      cout << "Enter a digit between 5 and 10: ";
      cin >> data;
    
@@ -15,10 +15,6 @@ int main(){
      cout << "Enter a digit between 5 and 10: ";
      cin >> data;
         
-     
-      /**  if(data <= 5 && data >= 10){
-            cout << "sorry,you entered invalid number,please try again" << endl;
-        }**/
     }
 
    cout << "Your input value" << data << "has been accepted" << endl;
