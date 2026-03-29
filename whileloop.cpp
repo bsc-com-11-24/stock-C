@@ -7,7 +7,7 @@ int main(){
      cout << "Enter a digit between 5 and 10: ";
      cin >> data;
    
-     
+     //idwhibiilfbview
     while(data <= 5){
 
      cout << "sorry,you entered invalid number,please try again" << endl;
