@@ -2,13 +2,12 @@
 using namespace std;
 
 int main(){
-    int data;
- //katu ndi zoba 
+    int data; 
      cout << "Enter a digit between 5 and 10: ";
      cin >> data;
    
-     //idwhibiilfbview
-    while(data <= 5){
+     
+    while(data < 5 || data > 10){
 
      cout << "sorry,you entered invalid number,please try again" << endl;
         
