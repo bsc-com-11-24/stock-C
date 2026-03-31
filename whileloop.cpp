@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//lets do  this
 int main(){
     int data; 
      cout << "Enter a digit between 5 and 10: ";
